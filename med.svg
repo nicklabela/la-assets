@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="105"
+   height="85"
+   viewBox="0 0 105 85"
+   fill="none"
+   version="1.1"
+   id="svg130"
+   sodipodi:docname="med.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs134" />
+  <sodipodi:namedview
+     id="namedview132"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.8000841"
+     inkscape:cx="-9.4440031"
+     inkscape:cy="38.331542"
+     inkscape:window-width="1309"
+     inkscape:window-height="404"
+     inkscape:window-x="412"
+     inkscape:window-y="243"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg130" />
+  <path
+     d="M13.8975 64.8644H26.71V84.0831L52.335 64.8644H90.7725C94.1706 64.8644 97.4295 63.5145 99.8323 61.1117C102.235 58.7089 103.585 55.45 103.585 52.0519V13.6144C103.585 10.2163 102.235 6.95738 99.8323 4.55457C97.4295 2.15176 94.1706 0.80188 90.7725 0.80188H13.8975C10.4994 0.80188 7.24047 2.15176 4.83766 4.55457C2.43485 6.95738 1.08496 10.2163 1.08496 13.6144V52.0519C1.08496 55.45 2.43485 58.7089 4.83766 61.1117C7.24047 63.5145 10.4994 64.8644 13.8975 64.8644Z"
+     fill="#70A200"
+     stroke="#70A300"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path124"
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-opacity:1" />
+  <path
+     d="M45.9287 20.0206H77.96"
+     stroke="white"
+     stroke-width="12"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path126" />
+  <path
+     d="M26.71 43.0831H77.96"
+     stroke="white"
+     stroke-width="12"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path128" />
+</svg>
