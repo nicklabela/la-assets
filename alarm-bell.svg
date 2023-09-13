@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="29.816738"
-     inkscape:cx="-5.9530322"
+     inkscape:cx="10.346538"
      inkscape:cy="13.331438"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
@@ -38,29 +38,22 @@
   </defs>
   <title
      id="title6">alarm-bell</title>
-  <ellipse
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.47908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-     id="path1104"
-     cx="12"
-     cy="12"
-     rx="11.260463"
-     ry="11.260462" />
   <path
      id="path8"
      class="a"
-     d="m 9.4216029,20.214302 a 2.6866503,2.6866503 0 0 0 5.1568491,0 z"
-     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.38463;stroke-dasharray:none;stroke-opacity:1" />
+     d="m 9.7080914,19.91539 a 2.3881337,2.3881337 0 0 0 4.5838656,0 z"
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.23078;stroke-dasharray:none;stroke-opacity:1" />
   <line
      class="a"
-     x1="12.000027"
-     y1="3.9308562"
-     x2="12.000027"
-     y2="1.85391"
+     x1="12.000023"
+     y1="5.2335968"
+     x2="12.000023"
+     y2="3.1452329"
      id="line10"
-     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.38463;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:2.65893;stroke-dasharray:none;stroke-opacity:1" />
   <path
      class="a"
-     d="m 12.000027,3.9308563 a 6.923154,6.923154 0 0 1 6.923154,6.9231537 c 0,6.504073 1.384631,7.61547 1.384631,7.61547 H 3.6922426 c 0,0 1.3846308,-1.768635 1.3846308,-7.61547 A 6.923154,6.923154 0 0 1 12.000027,3.9308563 Z"
+     d="m 12.000083,7.22673 a 4.5459714,4.5459714 0 0 1 4.545971,4.54597 c 0,4.27079 0.909196,5.00057 0.909196,5.00057 H 6.5449184 c 0,0 0.9091944,-1.161345 0.9091944,-5.00057 A 4.5459714,4.5459714 0 0 1 12.000083,7.22673 Z"
      id="path12"
-     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.38463;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:4.25228;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
