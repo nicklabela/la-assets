@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="29.816738"
-     inkscape:cx="6.4728744"
+     inkscape:cx="0.25153657"
      inkscape:cy="13.331438"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
@@ -38,22 +38,29 @@
   </defs>
   <title
      id="title6">alarm-bell</title>
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.47908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path1104"
+     cx="12"
+     cy="12"
+     rx="11.260463"
+     ry="11.260462" />
   <path
      id="path8"
      class="a"
-     d="m 9.2067379,20.640203 a 2.9105054,2.9105054 0 0 0 5.5865241,0 z"
-     style="fill:#00d146;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.5;stroke-dasharray:none" />
+     d="m 9.2067379,20.898728 a 2.9105054,2.9105054 0 0 0 5.5865241,0 z"
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
   <line
      class="a"
      x1="12"
-     y1="3"
+     y1="3.2585251"
      x2="12"
-     y2="0.75"
+     y2="1.008525"
      id="line10"
-     style="stroke:#ffffff;stroke-opacity:1;fill:#00d146;fill-opacity:1;stroke-width:0.5;stroke-dasharray:none" />
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
   <path
      class="a"
-     d="M12,3a7.5,7.5,0,0,1,7.5,7.5c0,7.046,1.5,8.25,1.5,8.25H3s1.5-1.916,1.5-8.25A7.5,7.5,0,0,1,12,3Z"
+     d="m 12,3.2585251 a 7.5,7.5 0 0 1 7.5,7.4999999 c 0,7.046 1.5,8.25 1.5,8.25 H 3 c 0,0 1.5,-1.916 1.5,-8.25 A 7.5,7.5 0 0 1 12,3.2585251 Z"
      id="path12"
-     style="stroke:#ffffff;stroke-opacity:1;fill:#00d146;fill-opacity:1;stroke-width:0.5;stroke-dasharray:none" />
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
