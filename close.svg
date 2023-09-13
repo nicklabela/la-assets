@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Regular"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="close#.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-7.0169492"
+     inkscape:cy="12"
+     inkscape:window-width="1309"
+     inkscape:window-height="404"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Regular" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}.cls-1{fill-rule:evenodd;}</style>
+  </defs>
+  <title
+     id="title6">arrow-right-x</title>
+  <line
+     class="cls-2"
+     x1="18.25"
+     y1="18.25"
+     x2="5.75"
+     y2="5.75"
+     id="line10"
+     style="stroke:#00d146;stroke-opacity:1;stroke-width:4;stroke-dasharray:none" />
+  <line
+     class="cls-2"
+     x1="5.75"
+     y1="18.25"
+     x2="18.25"
+     y2="5.75"
+     id="line12"
+     style="stroke:#00d146;stroke-opacity:1;stroke-width:4;stroke-dasharray:none" />
+  <metadata
+     id="metadata1240">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>arrow-right-x</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
