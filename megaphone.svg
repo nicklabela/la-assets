@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="megaphone.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="19.666667"
+     inkscape:cx="7.7033898"
+     inkscape:cy="14.211864"
+     inkscape:window-width="2101"
+     inkscape:window-height="951"
+     inkscape:window-x="313"
+     inkscape:window-y="115"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg18" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
+  </defs>
+  <title
+     id="title6">megaphone-1</title>
+  <g
+     id="g862"
+     style="fill:#00d146;fill-opacity:1">
+    <line
+       class="a"
+       x1="0.75"
+       y1="9"
+       x2="0.75"
+       y2="15"
+       id="line8"
+       style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-opacity:1" />
+    <line
+       class="a"
+       x1="23.25"
+       y1="1.5"
+       x2="23.25"
+       y2="22.5"
+       id="line10"
+       style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-opacity:1" />
+    <line
+       class="a"
+       x1="0.75"
+       y1="10.5"
+       x2="23.25"
+       y2="3"
+       id="line12"
+       style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-opacity:1" />
+    <line
+       class="a"
+       x1="0.75"
+       y1="13.5"
+       x2="23.25"
+       y2="21"
+       id="line14"
+       style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-opacity:1" />
+  </g>
+  <path
+     class="a"
+     d="M5.126,14.959V15A6.71,6.71,0,0,0,17.1,18.949"
+     id="path16"
+     style="fill:none;fill-opacity:1;stroke:#00d146;stroke-opacity:1" />
+  <path
+     style="fill:#00d146;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 0.76271186,10.169492 22.983051,3.2542373 23.135593,20.949153 0.91525424,13.830508 Z"
+     id="path918" />
+  <metadata
+     id="metadata2110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>megaphone-1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
