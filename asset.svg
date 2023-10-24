@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="common-file-text.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="5.2835477"
+     inkscape:cx="-4.9209359"
+     inkscape:cy="3.4068018"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
+  </defs>
+  <title
+     id="title1">common-file-text</title>
+  <path
+     class="a"
+     d="M 21.027516,21.795881 A 1.2896452,1.5070587 0 0 1 19.737871,23.30294 H 4.2621291 A 1.2896452,1.5070587 0 0 1 2.9724841,21.795881 V 2.2041187 A 1.2896452,1.5070587 0 0 1 4.2621291,0.69706006 H 17.19727 a 1.2896452,1.5070587 0 0 1 0.901032,0.42800464 l 2.539742,2.8965668 a 1.2896452,1.5070587 0 0 1 0.389472,1.079054 z"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+  <line
+     class="a"
+     x1="6.8414192"
+     y1="8.2323532"
+     x2="17.158581"
+     y2="8.2323532"
+     id="line1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1" />
+  <line
+     class="a"
+     x1="6.8414192"
+     y1="12.75353"
+     x2="17.158581"
+     y2="12.75353"
+     id="line2"
+     style="fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1" />
+  <line
+     class="a"
+     x1="6.8410602"
+     y1="17.274706"
+     x2="11.99964"
+     y2="17.274706"
+     id="line3"
+     style="fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1" />
+</svg>
