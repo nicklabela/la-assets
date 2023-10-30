@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Regular"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="single-neutral-actions-subtract.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="7.9253772"
+     inkscape:cx="11.482103"
+     inkscape:cy="8.2015024"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="654"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Regular" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
+  </defs>
+  <title
+     id="title1">single-neutral-actions-subtract</title>
+  <circle
+     class="a"
+     cx="8.5903473"
+     cy="4.6331387"
+     r="3.9572089"
+     id="circle2-8"
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.35186px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M 8.5903479,9.7209796 A 7.914418,7.914418 0 0 0 0.67593002,17.635397 V 19.89666 H 16.504766 V 17.635397 A 7.9159256,7.9159256 0 0 0 8.5903479,9.7209796 Z"
+     id="path3"
+     style="fill:#00d146;fill-opacity:1;stroke:#00d146;stroke-width:1.35186px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  <circle
+     class="cls-1"
+     cx="17.25"
+     cy="17.249"
+     r="6"
+     id="circle2"
+     style="stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+  <line
+     class="cls-1"
+     x1="14.25"
+     y1="17.249"
+     x2="20.25"
+     y2="17.249"
+     id="line2"
+     style="stroke:#cc0000;stroke-opacity:1" />
+</svg>
